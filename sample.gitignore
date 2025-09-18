@@ -1,0 +1,12 @@
+# Ignore Maven build output
+/target/
+
+# IDE specific files
+/.idea/
+/*.iml
+/.classpath
+/.project
+/.settings/
+
+# Logs
+*.log
